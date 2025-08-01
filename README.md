@@ -3,9 +3,7 @@
 Bounce action is also can be calculated with auxilary function $V_t(\phi)$~\cite{Espinosa:2018hue}.
 In terms of $V$ and $V_t$ this action can be written as
 $$
-\begin{equation}
     S_{E,d}=\frac{(d-1)^{(d-1)}(2\pi)^{d/2}}{\Gamma(1+d/2)}\int_{\phi_+}^{\phi_0}\frac{(V-V_t)^{d/2}}{\left|V_t'\right|^{d-1}}d\phi\ .
-\end{equation}
 $$
 
 
